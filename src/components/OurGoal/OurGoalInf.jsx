@@ -12,7 +12,7 @@ import comunasb from "../../assets/static/images/comunasb.png";
 const OurGoalInf = () => {
   return (
     <Fragment>
-      <div className="principal-container-ourGoal">
+      <div id="nuestrameta" className="principal-container-ourGoal">
         <div className="text-container1">
           <div className="title-img-ourGoal">Meta 2023</div>
           <div className="text-img-ourGoal">

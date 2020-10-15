@@ -3,10 +3,9 @@
 .dropdown-menu {
   flex-direction: column;
   width: 35vh;
-  margin-left: 50%;
   position: absolute;
   top: 71%;
-  left: 13%;
+  left: 30vh;
   position: absolute;
   text-align: start;
   font-size: 0.9rem;
@@ -16,7 +15,7 @@
 }
 
 .dropdown-menu li {
-  background:$textColor7;
+  background: $textColor7;
   color: $textColor4;
   cursor: pointer;
 }
@@ -29,7 +28,7 @@
 }
 
 .dropdown-link {
- /// display: block;
+  /// display: block;
   width: 100%;
   height: 100%;
   text-decoration: none;
