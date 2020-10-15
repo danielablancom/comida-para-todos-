@@ -20,7 +20,7 @@ function Detail() {
           </p>
         </div>
         <div className="ContainerText">
-          <p>"Desde el 22 de mayo de 2020"</p>
+          <p>Desde el 22 de mayo de 2020</p>
         </div>
         <div className="containerBoxDetails">
           <div className="boxContainerDetail">

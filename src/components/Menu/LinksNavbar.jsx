@@ -39,7 +39,7 @@ function LinksNavbar () {
             <a href="/ ">Hazte Parte</a>
           </li>
           <li>
-            <a href="/">Te Contamos</a>
+            <a href="/">Novedades</a>
           </li>
           <li>
             <a href="/">Contáctanos</a>
